@@ -51,6 +51,22 @@
         "list": "cpp",
         "istream": "cpp",
         "executor": "cpp",
-        "mutex": "cpp"
+        "mutex": "cpp",
+        "thread": "cpp",
+        "cstring": "cpp",
+        "condition_variable": "cpp",
+        "forward_list": "cpp",
+        "map": "cpp",
+        "buffer": "cpp",
+        "io_context": "cpp",
+        "netfwd": "cpp",
+        "timer": "cpp",
+        "fstream": "cpp",
+        "future": "cpp",
+        "stop_token": "cpp",
+        "regex": "cpp",
+        "bitset": "cpp",
+        "unordered_set": "cpp",
+        "sstream": "cpp"
     }
 }
