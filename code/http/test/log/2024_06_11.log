@@ -1,0 +1,908 @@
+2024-06-11 00:20:01.142977 [info] : Client[16](127.0.0.1:26787) in, userCount:1
+2024-06-11 00:20:01.143325 [info] : Client[17](127.0.0.1:28323) in, userCount:2
+2024-06-11 00:20:01.162542 [debug]: [GET], [/index.html], [1.1]
+2024-06-11 00:20:01.162696 [debug]: /index.html
+2024-06-11 00:20:01.162761 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//index.html
+2024-06-11 00:20:01.162791 [debug]: filesize:3148, 2  to 3270
+2024-06-11 00:20:01.279486 [info] : Client[18](127.0.0.1:31907) in, userCount:3
+2024-06-11 00:20:01.280313 [info] : Client[22](127.0.0.1:35491) in, userCount:4
+2024-06-11 00:20:01.281392 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2024-06-11 00:20:01.281560 [debug]: /css/bootstrap.min.css
+2024-06-11 00:20:01.281674 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/bootstrap.min.css
+2024-06-11 00:20:01.281714 [debug]: filesize:121260, 2  to 121384
+2024-06-11 00:20:01.281789 [debug]: [GET], [/css/animate.css], [1.1]
+2024-06-11 00:20:01.282072 [debug]: /css/animate.css
+2024-06-11 00:20:01.282144 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/animate.css
+2024-06-11 00:20:01.282186 [debug]: filesize:72922, 2  to 73045
+2024-06-11 00:20:01.282187 [info] : Client[24](127.0.0.1:38051) in, userCount:5
+2024-06-11 00:20:01.283039 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2024-06-11 00:20:01.283152 [debug]: /css/magnific-popup.css
+2024-06-11 00:20:01.283206 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/magnific-popup.css
+2024-06-11 00:20:01.283223 [debug]: filesize:6951, 2  to 7073
+2024-06-11 00:20:01.283861 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2024-06-11 00:20:01.283991 [debug]: /css/font-awesome.min.css
+2024-06-11 00:20:01.284044 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/font-awesome.min.css
+2024-06-11 00:20:01.284062 [debug]: filesize:27392, 2  to 27515
+2024-06-11 00:20:01.287958 [debug]: [GET], [/css/style.css], [1.1]
+2024-06-11 00:20:01.288163 [debug]: /css/style.css
+2024-06-11 00:20:01.288276 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/style.css
+2024-06-11 00:20:01.288336 [debug]: filesize:9807, 2  to 9929
+2024-06-11 00:20:01.288720 [info] : Client[23](127.0.0.1:42147) in, userCount:6
+2024-06-11 00:20:01.290453 [debug]: [GET], [/js/jquery.js], [1.1]
+2024-06-11 00:20:01.290578 [debug]: /js/jquery.js
+2024-06-11 00:20:01.290720 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.js
+2024-06-11 00:20:01.290807 [debug]: filesize:85658, 2  to 85788
+2024-06-11 00:20:01.291102 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2024-06-11 00:20:01.291238 [debug]: /images/profile-image.jpg
+2024-06-11 00:20:01.291322 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/profile-image.jpg
+2024-06-11 00:20:01.291359 [debug]: filesize:47176, 2  to 47300
+2024-06-11 00:20:01.309390 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2024-06-11 00:20:01.309514 [debug]: /js/bootstrap.min.js
+2024-06-11 00:20:01.309590 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/bootstrap.min.js
+2024-06-11 00:20:01.309630 [debug]: filesize:36868, 2  to 36998
+2024-06-11 00:20:01.317662 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2024-06-11 00:20:01.317782 [debug]: /js/smoothscroll.js
+2024-06-11 00:20:01.317855 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/smoothscroll.js
+2024-06-11 00:20:01.317897 [debug]: filesize:4474, 2  to 4603
+2024-06-11 00:20:01.317948 [debug]: [GET], [/js/wow.min.js], [1.1]
+2024-06-11 00:20:01.318050 [debug]: /js/wow.min.js
+2024-06-11 00:20:01.318131 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/wow.min.js
+2024-06-11 00:20:01.318197 [debug]: filesize:7082, 2  to 7211
+2024-06-11 00:20:01.318404 [debug]: [GET], [/js/custom.js], [1.1]
+2024-06-11 00:20:01.318493 [debug]: /js/custom.js
+2024-06-11 00:20:01.318598 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/custom.js
+2024-06-11 00:20:01.318665 [debug]: filesize:1047, 2  to 1176
+2024-06-11 00:20:01.318734 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2024-06-11 00:20:01.318835 [debug]: /js/jquery.magnific-popup.min.js
+2024-06-11 00:20:01.318942 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.magnific-popup.min.js
+2024-06-11 00:20:01.319021 [debug]: filesize:20932, 2  to 21062
+2024-06-11 00:20:01.319049 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2024-06-11 00:20:01.319179 [debug]: /js/magnific-popup-options.js
+2024-06-11 00:20:01.319280 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/magnific-popup-options.js
+2024-06-11 00:20:01.319317 [debug]: filesize:1069, 2  to 1198
+2024-06-11 00:20:10.554167 [debug]: [GET], [/index.html], [1.1]
+2024-06-11 00:20:10.554299 [debug]: /index.html
+2024-06-11 00:20:10.554393 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//index.html
+2024-06-11 00:20:10.554446 [debug]: filesize:3148, 2  to 3270
+2024-06-11 00:20:10.600674 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2024-06-11 00:20:10.600811 [debug]: /css/bootstrap.min.css
+2024-06-11 00:20:10.600908 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/bootstrap.min.css
+2024-06-11 00:20:10.600966 [debug]: filesize:121260, 2  to 121384
+2024-06-11 00:20:10.604800 [debug]: [GET], [/css/animate.css], [1.1]
+2024-06-11 00:20:10.604932 [debug]: /css/animate.css
+2024-06-11 00:20:10.605004 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/animate.css
+2024-06-11 00:20:10.605076 [debug]: filesize:72922, 2  to 73045
+2024-06-11 00:20:10.605120 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2024-06-11 00:20:10.605154 [debug]: /css/font-awesome.min.css
+2024-06-11 00:20:10.605183 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/font-awesome.min.css
+2024-06-11 00:20:10.605209 [debug]: filesize:27392, 2  to 27515
+2024-06-11 00:20:10.605754 [debug]: [GET], [/css/style.css], [1.1]
+2024-06-11 00:20:10.605851 [debug]: /css/style.css
+2024-06-11 00:20:10.605927 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/style.css
+2024-06-11 00:20:10.605960 [debug]: filesize:9807, 2  to 9929
+2024-06-11 00:20:10.606188 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2024-06-11 00:20:10.606282 [debug]: /css/magnific-popup.css
+2024-06-11 00:20:10.606349 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/magnific-popup.css
+2024-06-11 00:20:10.606374 [debug]: filesize:6951, 2  to 7073
+2024-06-11 00:20:10.606595 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2024-06-11 00:20:10.606681 [debug]: /images/profile-image.jpg
+2024-06-11 00:20:10.606747 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/profile-image.jpg
+2024-06-11 00:20:10.606773 [debug]: filesize:47176, 2  to 47300
+2024-06-11 00:20:10.615523 [debug]: [GET], [/js/jquery.js], [1.1]
+2024-06-11 00:20:10.615688 [debug]: /js/jquery.js
+2024-06-11 00:20:10.615787 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.js
+2024-06-11 00:20:10.615865 [debug]: filesize:85658, 2  to 85788
+2024-06-11 00:20:10.629844 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2024-06-11 00:20:10.629953 [debug]: /js/smoothscroll.js
+2024-06-11 00:20:10.630011 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/smoothscroll.js
+2024-06-11 00:20:10.630041 [debug]: filesize:4474, 2  to 4603
+2024-06-11 00:20:10.630066 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2024-06-11 00:20:10.630102 [debug]: /js/magnific-popup-options.js
+2024-06-11 00:20:10.630138 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2024-06-11 00:20:10.630141 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/magnific-popup-options.js
+2024-06-11 00:20:10.630231 [debug]: filesize:1069, 2  to 1198
+2024-06-11 00:20:10.630245 [debug]: /js/jquery.magnific-popup.min.js
+2024-06-11 00:20:10.630273 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2024-06-11 00:20:10.630301 [debug]: /js/bootstrap.min.js
+2024-06-11 00:20:10.630346 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.magnific-popup.min.js
+2024-06-11 00:20:10.630414 [debug]: filesize:20932, 2  to 21062
+2024-06-11 00:20:10.630349 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/bootstrap.min.js
+2024-06-11 00:20:10.630468 [debug]: filesize:36868, 2  to 36998
+2024-06-11 00:20:10.630699 [debug]: [GET], [/js/wow.min.js], [1.1]
+2024-06-11 00:20:10.630821 [debug]: /js/wow.min.js
+2024-06-11 00:20:10.630917 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/wow.min.js
+2024-06-11 00:20:10.631002 [debug]: filesize:7082, 2  to 7211
+2024-06-11 00:20:10.631262 [debug]: [GET], [/js/custom.js], [1.1]
+2024-06-11 00:20:10.631381 [debug]: /js/custom.js
+2024-06-11 00:20:10.631487 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/custom.js
+2024-06-11 00:20:10.631536 [debug]: filesize:1047, 2  to 1176
+2024-06-11 00:20:14.804432 [debug]: [GET], [/video.html], [1.1]
+2024-06-11 00:20:14.804563 [debug]: /video.html
+2024-06-11 00:20:14.804650 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//video.html
+2024-06-11 00:20:14.804702 [debug]: filesize:3347, 2  to 3469
+2024-06-11 00:20:14.845799 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2024-06-11 00:20:14.845918 [debug]: /css/bootstrap.min.css
+2024-06-11 00:20:14.845986 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/bootstrap.min.css
+2024-06-11 00:20:14.846028 [debug]: filesize:121260, 2  to 121384
+2024-06-11 00:20:14.851501 [debug]: [GET], [/css/animate.css], [1.1]
+2024-06-11 00:20:14.851573 [debug]: /css/animate.css
+2024-06-11 00:20:14.851614 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/animate.css
+2024-06-11 00:20:14.851658 [debug]: filesize:72922, 2  to 73045
+2024-06-11 00:20:14.851742 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2024-06-11 00:20:14.851777 [debug]: /images/profile-image.jpg
+2024-06-11 00:20:14.851830 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/profile-image.jpg
+2024-06-11 00:20:14.851781 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2024-06-11 00:20:14.851889 [debug]: filesize:47176, 2  to 47300
+2024-06-11 00:20:14.851890 [debug]: /css/font-awesome.min.css
+2024-06-11 00:20:14.851999 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/font-awesome.min.css
+2024-06-11 00:20:14.852062 [debug]: filesize:27392, 2  to 27515
+2024-06-11 00:20:14.852179 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2024-06-11 00:20:14.852270 [debug]: /css/magnific-popup.css
+2024-06-11 00:20:14.852359 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/magnific-popup.css
+2024-06-11 00:20:14.852430 [debug]: filesize:6951, 2  to 7073
+2024-06-11 00:20:14.853021 [debug]: [GET], [/css/style.css], [1.1]
+2024-06-11 00:20:14.853109 [debug]: /css/style.css
+2024-06-11 00:20:14.853187 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/style.css
+2024-06-11 00:20:14.853213 [debug]: filesize:9807, 2  to 9929
+2024-06-11 00:20:14.853944 [debug]: [GET], [/js/jquery.js], [1.1]
+2024-06-11 00:20:14.854061 [debug]: /js/jquery.js
+2024-06-11 00:20:14.854152 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.js
+2024-06-11 00:20:14.854223 [debug]: filesize:85658, 2  to 85788
+2024-06-11 00:20:14.859174 [debug]: [GET], [/video/xxx.mp4], [1.1]
+2024-06-11 00:20:14.859317 [debug]: /video/xxx.mp4
+2024-06-11 00:20:14.859409 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//video/xxx.mp4
+2024-06-11 00:20:14.859468 [debug]: filesize:39667571, 2  to 39667698
+2024-06-11 00:20:14.868994 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2024-06-11 00:20:14.869153 [debug]: /js/smoothscroll.js
+2024-06-11 00:20:14.869241 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/smoothscroll.js
+2024-06-11 00:20:14.869285 [debug]: filesize:4474, 2  to 4603
+2024-06-11 00:20:14.869576 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2024-06-11 00:20:14.869677 [debug]: /js/magnific-popup-options.js
+2024-06-11 00:20:14.869782 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/magnific-popup-options.js
+2024-06-11 00:20:14.869819 [debug]: filesize:1069, 2  to 1198
+2024-06-11 00:20:14.869904 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2024-06-11 00:20:14.870035 [debug]: [GET], [/js/wow.min.js], [1.1]
+2024-06-11 00:20:14.870040 [debug]: /js/bootstrap.min.js
+2024-06-11 00:20:14.870120 [debug]: /js/wow.min.js
+2024-06-11 00:20:14.870168 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/bootstrap.min.js
+2024-06-11 00:20:14.870217 [debug]: filesize:36868, 2  to 36998
+2024-06-11 00:20:14.870234 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2024-06-11 00:20:14.870245 [debug]: /js/jquery.magnific-popup.min.js
+2024-06-11 00:20:14.870252 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/wow.min.js
+2024-06-11 00:20:14.870327 [debug]: filesize:7082, 2  to 7211
+2024-06-11 00:20:14.870354 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.magnific-popup.min.js
+2024-06-11 00:20:14.870397 [debug]: filesize:20932, 2  to 21062
+2024-06-11 00:20:14.874969 [debug]: [GET], [/js/custom.js], [1.1]
+2024-06-11 00:20:14.875109 [debug]: /js/custom.js
+2024-06-11 00:20:14.875216 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/custom.js
+2024-06-11 00:20:14.875275 [debug]: filesize:1047, 2  to 1176
+2024-06-11 00:20:20.435481 [debug]: [GET], [/picture.html], [1.1]
+2024-06-11 00:20:20.435591 [debug]: /picture.html
+2024-06-11 00:20:20.435653 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//picture.html
+2024-06-11 00:20:20.435688 [debug]: filesize:3960, 2  to 4082
+2024-06-11 00:20:20.482944 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2024-06-11 00:20:20.483073 [debug]: /css/bootstrap.min.css
+2024-06-11 00:20:20.483138 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/bootstrap.min.css
+2024-06-11 00:20:20.483194 [debug]: filesize:121260, 2  to 121384
+2024-06-11 00:20:20.488697 [debug]: [GET], [/css/animate.css], [1.1]
+2024-06-11 00:20:20.488811 [debug]: /css/animate.css
+2024-06-11 00:20:20.488889 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/animate.css
+2024-06-11 00:20:20.488938 [debug]: filesize:72922, 2  to 73045
+2024-06-11 00:20:20.488971 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2024-06-11 00:20:20.489076 [debug]: /css/magnific-popup.css
+2024-06-11 00:20:20.489162 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/magnific-popup.css
+2024-06-11 00:20:20.489202 [debug]: filesize:6951, 2  to 7073
+2024-06-11 00:20:20.489518 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2024-06-11 00:20:20.489625 [debug]: /css/font-awesome.min.css
+2024-06-11 00:20:20.489679 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/font-awesome.min.css
+2024-06-11 00:20:20.489706 [debug]: filesize:27392, 2  to 27515
+2024-06-11 00:20:20.490472 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2024-06-11 00:20:20.490581 [debug]: /images/profile-image.jpg
+2024-06-11 00:20:20.490639 [debug]: [GET], [/css/style.css], [1.1]
+2024-06-11 00:20:20.490667 [debug]: /css/style.css
+2024-06-11 00:20:20.490686 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/profile-image.jpg
+2024-06-11 00:20:20.490737 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/style.css
+2024-06-11 00:20:20.490785 [debug]: filesize:47176, 2  to 47300
+2024-06-11 00:20:20.490786 [debug]: filesize:9807, 2  to 9929
+2024-06-11 00:20:20.493392 [debug]: [GET], [/images/instagram-image1.jpg], [1.1]
+2024-06-11 00:20:20.493509 [debug]: /images/instagram-image1.jpg
+2024-06-11 00:20:20.493586 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/instagram-image1.jpg
+2024-06-11 00:20:20.493622 [debug]: filesize:75836, 2  to 75960
+2024-06-11 00:20:20.494489 [debug]: [GET], [/images/instagram-image2.jpg], [1.1]
+2024-06-11 00:20:20.494608 [debug]: /images/instagram-image2.jpg
+2024-06-11 00:20:20.494609 [debug]: [GET], [/images/instagram-image3.jpg], [1.1]
+2024-06-11 00:20:20.494686 [debug]: /images/instagram-image3.jpg
+2024-06-11 00:20:20.494745 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/instagram-image2.jpg
+2024-06-11 00:20:20.494820 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/instagram-image3.jpg
+2024-06-11 00:20:20.494878 [debug]: filesize:67313, 2  to 67437
+2024-06-11 00:20:20.494925 [debug]: filesize:59528, 2  to 59652
+2024-06-11 00:20:20.497467 [debug]: [GET], [/images/instagram-image4.jpg], [1.1]
+2024-06-11 00:20:20.497608 [debug]: /images/instagram-image4.jpg
+2024-06-11 00:20:20.497667 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/instagram-image4.jpg
+2024-06-11 00:20:20.497707 [debug]: filesize:103418, 2  to 103543
+2024-06-11 00:20:20.499657 [debug]: [GET], [/images/instagram-image5.jpg], [1.1]
+2024-06-11 00:20:20.499770 [debug]: /images/instagram-image5.jpg
+2024-06-11 00:20:20.499864 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/instagram-image5.jpg
+2024-06-11 00:20:20.499905 [debug]: filesize:49545, 2  to 49669
+2024-06-11 00:20:20.501306 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2024-06-11 00:20:20.501401 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2024-06-11 00:20:20.501406 [debug]: /js/bootstrap.min.js
+2024-06-11 00:20:20.501509 [debug]: /js/smoothscroll.js
+2024-06-11 00:20:20.501524 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/bootstrap.min.js
+2024-06-11 00:20:20.501590 [debug]: filesize:36868, 2  to 36998
+2024-06-11 00:20:20.501613 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/smoothscroll.js
+2024-06-11 00:20:20.501658 [debug]: [GET], [/js/jquery.js], [1.1]
+2024-06-11 00:20:20.501710 [debug]: /js/jquery.js
+2024-06-11 00:20:20.501660 [debug]: filesize:4474, 2  to 4603
+2024-06-11 00:20:20.501805 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.js
+2024-06-11 00:20:20.501834 [debug]: filesize:85658, 2  to 85788
+2024-06-11 00:20:20.502512 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2024-06-11 00:20:20.502605 [debug]: /js/jquery.magnific-popup.min.js
+2024-06-11 00:20:20.502664 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.magnific-popup.min.js
+2024-06-11 00:20:20.502692 [debug]: filesize:20932, 2  to 21062
+2024-06-11 00:20:20.503504 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2024-06-11 00:20:20.503625 [debug]: /js/magnific-popup-options.js
+2024-06-11 00:20:20.503697 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/magnific-popup-options.js
+2024-06-11 00:20:20.503727 [debug]: filesize:1069, 2  to 1198
+2024-06-11 00:20:20.505986 [debug]: [GET], [/js/wow.min.js], [1.1]
+2024-06-11 00:20:20.506111 [debug]: /js/wow.min.js
+2024-06-11 00:20:20.506172 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/wow.min.js
+2024-06-11 00:20:20.506212 [debug]: filesize:7082, 2  to 7211
+2024-06-11 00:20:20.507823 [debug]: [GET], [/js/custom.js], [1.1]
+2024-06-11 00:20:20.507916 [debug]: /js/custom.js
+2024-06-11 00:20:20.507982 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/custom.js
+2024-06-11 00:20:20.508029 [debug]: filesize:1047, 2  to 1176
+2024-06-11 00:20:22.137382 [debug]: [GET], [/video.html], [1.1]
+2024-06-11 00:20:22.137531 [debug]: /video.html
+2024-06-11 00:20:22.137625 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//video.html
+2024-06-11 00:20:22.137673 [debug]: filesize:3347, 2  to 3469
+2024-06-11 00:20:22.176564 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2024-06-11 00:20:22.176712 [debug]: /css/bootstrap.min.css
+2024-06-11 00:20:22.176784 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/bootstrap.min.css
+2024-06-11 00:20:22.176822 [debug]: filesize:121260, 2  to 121384
+2024-06-11 00:20:22.183379 [debug]: [GET], [/css/animate.css], [1.1]
+2024-06-11 00:20:22.183587 [debug]: /css/animate.css
+2024-06-11 00:20:22.183924 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/animate.css
+2024-06-11 00:20:22.183986 [debug]: filesize:72922, 2  to 73045
+2024-06-11 00:20:22.186685 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2024-06-11 00:20:22.186832 [debug]: /css/magnific-popup.css
+2024-06-11 00:20:22.186914 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/magnific-popup.css
+2024-06-11 00:20:22.186950 [debug]: [GET], [/css/style.css], [1.1]
+2024-06-11 00:20:22.186953 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2024-06-11 00:20:22.186954 [debug]: filesize:6951, 2  to 7073
+2024-06-11 00:20:22.187040 [debug]: /css/font-awesome.min.css
+2024-06-11 00:20:22.187047 [debug]: /css/style.css
+2024-06-11 00:20:22.187074 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/font-awesome.min.css
+2024-06-11 00:20:22.187155 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/style.css
+2024-06-11 00:20:22.187158 [debug]: filesize:27392, 2  to 27515
+2024-06-11 00:20:22.187201 [debug]: filesize:9807, 2  to 9929
+2024-06-11 00:20:22.187265 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2024-06-11 00:20:22.187285 [debug]: /images/profile-image.jpg
+2024-06-11 00:20:22.187309 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/profile-image.jpg
+2024-06-11 00:20:22.187343 [debug]: filesize:47176, 2  to 47300
+2024-06-11 00:20:22.189161 [debug]: [GET], [/js/jquery.js], [1.1]
+2024-06-11 00:20:22.189307 [debug]: /js/jquery.js
+2024-06-11 00:20:22.189427 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.js
+2024-06-11 00:20:22.189510 [debug]: filesize:85658, 2  to 85788
+2024-06-11 00:20:22.192926 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2024-06-11 00:20:22.193049 [debug]: /js/bootstrap.min.js
+2024-06-11 00:20:22.193108 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/bootstrap.min.js
+2024-06-11 00:20:22.193148 [debug]: filesize:36868, 2  to 36998
+2024-06-11 00:20:22.193876 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2024-06-11 00:20:22.193923 [debug]: /js/smoothscroll.js
+2024-06-11 00:20:22.193953 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/smoothscroll.js
+2024-06-11 00:20:22.193977 [debug]: filesize:4474, 2  to 4603
+2024-06-11 00:20:22.194264 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2024-06-11 00:20:22.194380 [debug]: /js/jquery.magnific-popup.min.js
+2024-06-11 00:20:22.194417 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2024-06-11 00:20:22.194574 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.magnific-popup.min.js
+2024-06-11 00:20:22.194631 [debug]: filesize:20932, 2  to 21062
+2024-06-11 00:20:22.194646 [debug]: /js/magnific-popup-options.js
+2024-06-11 00:20:22.194704 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/magnific-popup-options.js
+2024-06-11 00:20:22.194741 [debug]: filesize:1069, 2  to 1198
+2024-06-11 00:20:22.195801 [debug]: [GET], [/js/wow.min.js], [1.1]
+2024-06-11 00:20:22.195902 [debug]: /js/wow.min.js
+2024-06-11 00:20:22.195969 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/wow.min.js
+2024-06-11 00:20:22.196047 [debug]: filesize:7082, 2  to 7211
+2024-06-11 00:20:22.196209 [debug]: [GET], [/js/custom.js], [1.1]
+2024-06-11 00:20:22.196290 [debug]: /js/custom.js
+2024-06-11 00:20:22.196362 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/custom.js
+2024-06-11 00:20:22.196404 [debug]: filesize:1047, 2  to 1176
+2024-06-11 00:20:22.197483 [debug]: [GET], [/video/xxx.mp4], [1.1]
+2024-06-11 00:20:22.197567 [debug]: /video/xxx.mp4
+2024-06-11 00:20:22.197649 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//video/xxx.mp4
+2024-06-11 00:20:22.197704 [debug]: filesize:39667571, 2  to 39667698
+2024-06-11 00:21:40.431535 [debug]: [GET], [/register.html], [1.1]
+2024-06-11 00:21:40.431702 [debug]: /register.html
+2024-06-11 00:21:40.431831 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//register.html
+2024-06-11 00:21:40.431885 [debug]: filesize:3380, 2  to 3502
+2024-06-11 00:21:40.477210 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2024-06-11 00:21:40.477350 [debug]: /css/bootstrap.min.css
+2024-06-11 00:21:40.477444 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/bootstrap.min.css
+2024-06-11 00:21:40.477504 [debug]: filesize:121260, 2  to 121384
+2024-06-11 00:21:40.479775 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2024-06-11 00:21:40.479785 [debug]: [GET], [/css/animate.css], [1.1]
+2024-06-11 00:21:40.479956 [debug]: /css/animate.css
+2024-06-11 00:21:40.479959 [debug]: /css/magnific-popup.css
+2024-06-11 00:21:40.480048 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/animate.css
+2024-06-11 00:21:40.480085 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/magnific-popup.css
+2024-06-11 00:21:40.480113 [debug]: filesize:72922, 2  to 73045
+2024-06-11 00:21:40.480134 [debug]: filesize:6951, 2  to 7073
+2024-06-11 00:21:40.480134 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2024-06-11 00:21:40.480366 [debug]: /css/font-awesome.min.css
+2024-06-11 00:21:40.480440 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/font-awesome.min.css
+2024-06-11 00:21:40.480485 [debug]: filesize:27392, 2  to 27515
+2024-06-11 00:21:40.482970 [debug]: [GET], [/css/style.css], [1.1]
+2024-06-11 00:21:40.483100 [debug]: /css/style.css
+2024-06-11 00:21:40.483221 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/style.css
+2024-06-11 00:21:40.483307 [debug]: filesize:9807, 2  to 9929
+2024-06-11 00:21:40.483974 [debug]: [GET], [/js/jquery.js], [1.1]
+2024-06-11 00:21:40.484062 [debug]: /js/jquery.js
+2024-06-11 00:21:40.484113 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.js
+2024-06-11 00:21:40.484143 [debug]: filesize:85658, 2  to 85788
+2024-06-11 00:21:40.484350 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2024-06-11 00:21:40.484434 [debug]: /js/bootstrap.min.js
+2024-06-11 00:21:40.484509 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/bootstrap.min.js
+2024-06-11 00:21:40.484552 [debug]: filesize:36868, 2  to 36998
+2024-06-11 00:21:40.485258 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2024-06-11 00:21:40.485401 [debug]: /js/smoothscroll.js
+2024-06-11 00:21:40.485470 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/smoothscroll.js
+2024-06-11 00:21:40.485512 [debug]: filesize:4474, 2  to 4603
+2024-06-11 00:21:40.488378 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2024-06-11 00:21:40.488520 [debug]: /js/jquery.magnific-popup.min.js
+2024-06-11 00:21:40.488607 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.magnific-popup.min.js
+2024-06-11 00:21:40.488657 [debug]: filesize:20932, 2  to 21062
+2024-06-11 00:21:40.489399 [debug]: [GET], [/js/wow.min.js], [1.1]
+2024-06-11 00:21:40.489523 [debug]: /js/wow.min.js
+2024-06-11 00:21:40.489583 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/wow.min.js
+2024-06-11 00:21:40.489615 [debug]: filesize:7082, 2  to 7211
+2024-06-11 00:21:40.489640 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2024-06-11 00:21:40.489746 [debug]: /js/magnific-popup-options.js
+2024-06-11 00:21:40.489809 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/magnific-popup-options.js
+2024-06-11 00:21:40.489846 [debug]: filesize:1069, 2  to 1198
+2024-06-11 00:21:40.490554 [debug]: [GET], [/js/custom.js], [1.1]
+2024-06-11 00:21:40.490642 [debug]: /js/custom.js
+2024-06-11 00:21:40.490690 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/custom.js
+2024-06-11 00:21:40.490716 [debug]: filesize:1047, 2  to 1176
+2024-06-11 00:21:42.275982 [debug]: username = tom
+2024-06-11 00:21:42.276108 [debug]: Tag:0
+2024-06-11 00:21:42.276141 [info] : Verify name:tom pwd:tom
+2024-06-11 00:21:42.276148 [debug]: SELECT username, password FROM user WHERE username='tom' LIMIT 1
+2024-06-11 00:21:42.278982 [debug]: MYSQL ROW: tom tom
+2024-06-11 00:21:42.279068 [debug]: user used!
+2024-06-11 00:21:42.279090 [debug]: UserVerify success!!
+2024-06-11 00:21:42.279106 [debug]: Body:username=tom&password=tom, len:25
+2024-06-11 00:21:42.279112 [debug]: [POST], [/error.html], [1.1]
+2024-06-11 00:21:42.279115 [debug]: /error.html
+2024-06-11 00:21:42.279156 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//error.html
+2024-06-11 00:21:42.279200 [debug]: filesize:3265, 2  to 3387
+2024-06-11 00:21:42.327861 [debug]: [username=tom&password=tomGET], [/css/bootstrap.min.css], [1.1]
+2024-06-11 00:21:42.328001 [debug]: /css/bootstrap.min.css
+2024-06-11 00:21:42.328075 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/bootstrap.min.css
+2024-06-11 00:21:42.328133 [debug]: filesize:121260, 2  to 121384
+2024-06-11 00:21:42.331633 [debug]: [GET], [/css/animate.css], [1.1]
+2024-06-11 00:21:42.331756 [debug]: /css/animate.css
+2024-06-11 00:21:42.331834 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/animate.css
+2024-06-11 00:21:42.331868 [debug]: filesize:72922, 2  to 73045
+2024-06-11 00:21:42.335462 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2024-06-11 00:21:42.335505 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2024-06-11 00:21:42.335605 [debug]: /css/magnific-popup.css
+2024-06-11 00:21:42.335609 [debug]: /css/font-awesome.min.css
+2024-06-11 00:21:42.335701 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/magnific-popup.css
+2024-06-11 00:21:42.335756 [debug]: filesize:6951, 2  to 7073
+2024-06-11 00:21:42.335783 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/font-awesome.min.css
+2024-06-11 00:21:42.335853 [debug]: filesize:27392, 2  to 27515
+2024-06-11 00:21:42.336854 [debug]: [GET], [/css/style.css], [1.1]
+2024-06-11 00:21:42.336992 [debug]: /css/style.css
+2024-06-11 00:21:42.337088 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/style.css
+2024-06-11 00:21:42.337137 [debug]: filesize:9807, 2  to 9929
+2024-06-11 00:21:42.337406 [debug]: [GET], [/js/jquery.js], [1.1]
+2024-06-11 00:21:42.337477 [debug]: /js/jquery.js
+2024-06-11 00:21:42.337534 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.js
+2024-06-11 00:21:42.337587 [debug]: filesize:85658, 2  to 85788
+2024-06-11 00:21:42.339847 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2024-06-11 00:21:42.339957 [debug]: /images/profile-image.jpg
+2024-06-11 00:21:42.340033 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/profile-image.jpg
+2024-06-11 00:21:42.340062 [debug]: filesize:47176, 2  to 47300
+2024-06-11 00:21:42.344135 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2024-06-11 00:21:42.344304 [debug]: /js/bootstrap.min.js
+2024-06-11 00:21:42.344468 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/bootstrap.min.js
+2024-06-11 00:21:42.344527 [debug]: filesize:36868, 2  to 36998
+2024-06-11 00:21:42.344881 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2024-06-11 00:21:42.344881 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2024-06-11 00:21:42.345007 [debug]: /js/smoothscroll.js
+2024-06-11 00:21:42.345012 [debug]: /js/jquery.magnific-popup.min.js
+2024-06-11 00:21:42.345131 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/smoothscroll.js
+2024-06-11 00:21:42.345156 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.magnific-popup.min.js
+2024-06-11 00:21:42.345158 [debug]: filesize:4474, 2  to 4603
+2024-06-11 00:21:42.345263 [debug]: filesize:20932, 2  to 21062
+2024-06-11 00:21:42.345656 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2024-06-11 00:21:42.345761 [debug]: /js/magnific-popup-options.js
+2024-06-11 00:21:42.345828 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/magnific-popup-options.js
+2024-06-11 00:21:42.345853 [debug]: filesize:1069, 2  to 1198
+2024-06-11 00:21:42.348748 [debug]: [GET], [/js/wow.min.js], [1.1]
+2024-06-11 00:21:42.348911 [debug]: /js/wow.min.js
+2024-06-11 00:21:42.348980 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/wow.min.js
+2024-06-11 00:21:42.349014 [debug]: filesize:7082, 2  to 7211
+2024-06-11 00:21:42.349446 [debug]: [GET], [/js/custom.js], [1.1]
+2024-06-11 00:21:42.349570 [debug]: /js/custom.js
+2024-06-11 00:21:42.349671 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/custom.js
+2024-06-11 00:21:42.349712 [debug]: filesize:1047, 2  to 1176
+2024-06-11 00:21:44.162643 [debug]: [GET], [/login.html], [1.1]
+2024-06-11 00:21:44.162784 [debug]: /login.html
+2024-06-11 00:21:44.162851 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//login.html
+2024-06-11 00:21:44.162881 [debug]: filesize:3385, 2  to 3507
+2024-06-11 00:21:44.199621 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2024-06-11 00:21:44.199777 [debug]: /css/bootstrap.min.css
+2024-06-11 00:21:44.199865 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/bootstrap.min.css
+2024-06-11 00:21:44.199907 [debug]: filesize:121260, 2  to 121384
+2024-06-11 00:21:44.201812 [debug]: [GET], [/css/animate.css], [1.1]
+2024-06-11 00:21:44.201913 [debug]: /css/animate.css
+2024-06-11 00:21:44.201977 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/animate.css
+2024-06-11 00:21:44.202009 [debug]: filesize:72922, 2  to 73045
+2024-06-11 00:21:44.202097 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2024-06-11 00:21:44.202165 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2024-06-11 00:21:44.202214 [debug]: /css/magnific-popup.css
+2024-06-11 00:21:44.202169 [debug]: /css/font-awesome.min.css
+2024-06-11 00:21:44.202269 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/magnific-popup.css
+2024-06-11 00:21:44.202289 [debug]: filesize:6951, 2  to 7073
+2024-06-11 00:21:44.202329 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/font-awesome.min.css
+2024-06-11 00:21:44.202366 [debug]: filesize:27392, 2  to 27515
+2024-06-11 00:21:44.206074 [debug]: [GET], [/css/style.css], [1.1]
+2024-06-11 00:21:44.206210 [debug]: /css/style.css
+2024-06-11 00:21:44.206283 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/style.css
+2024-06-11 00:21:44.206314 [debug]: filesize:9807, 2  to 9929
+2024-06-11 00:21:44.206679 [debug]: [GET], [/js/jquery.js], [1.1]
+2024-06-11 00:21:44.206759 [debug]: /js/jquery.js
+2024-06-11 00:21:44.206816 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.js
+2024-06-11 00:21:44.206863 [debug]: filesize:85658, 2  to 85788
+2024-06-11 00:21:44.207399 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2024-06-11 00:21:44.207433 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2024-06-11 00:21:44.207520 [debug]: /js/smoothscroll.js
+2024-06-11 00:21:44.207526 [debug]: /js/bootstrap.min.js
+2024-06-11 00:21:44.207591 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/smoothscroll.js
+2024-06-11 00:21:44.207625 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/bootstrap.min.js
+2024-06-11 00:21:44.207668 [debug]: filesize:4474, 2  to 4603
+2024-06-11 00:21:44.207672 [debug]: filesize:36868, 2  to 36998
+2024-06-11 00:21:44.209544 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2024-06-11 00:21:44.209651 [debug]: /js/jquery.magnific-popup.min.js
+2024-06-11 00:21:44.209714 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.magnific-popup.min.js
+2024-06-11 00:21:44.209739 [debug]: filesize:20932, 2  to 21062
+2024-06-11 00:21:44.211089 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2024-06-11 00:21:44.211228 [debug]: /js/magnific-popup-options.js
+2024-06-11 00:21:44.211313 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/magnific-popup-options.js
+2024-06-11 00:21:44.211357 [debug]: filesize:1069, 2  to 1198
+2024-06-11 00:21:44.212527 [debug]: [GET], [/js/wow.min.js], [1.1]
+2024-06-11 00:21:44.212647 [debug]: /js/wow.min.js
+2024-06-11 00:21:44.212722 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/wow.min.js
+2024-06-11 00:21:44.212753 [debug]: filesize:7082, 2  to 7211
+2024-06-11 00:21:44.212954 [debug]: [GET], [/js/custom.js], [1.1]
+2024-06-11 00:21:44.213025 [debug]: /js/custom.js
+2024-06-11 00:21:44.213082 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/custom.js
+2024-06-11 00:21:44.213113 [debug]: filesize:1047, 2  to 1176
+2024-06-11 00:21:45.714688 [debug]: username = tom
+2024-06-11 00:21:45.714830 [debug]: Tag:1
+2024-06-11 00:21:45.714858 [info] : Verify name:tom pwd:tom
+2024-06-11 00:21:45.714864 [debug]: SELECT username, password FROM user WHERE username='tom' LIMIT 1
+2024-06-11 00:21:45.715453 [debug]: MYSQL ROW: tom tom
+2024-06-11 00:21:45.715523 [debug]: UserVerify success!!
+2024-06-11 00:21:45.715541 [debug]: Body:username=tom&password=tom, len:25
+2024-06-11 00:21:45.715557 [debug]: [POST], [/welcome.html], [1.1]
+2024-06-11 00:21:45.715561 [debug]: /welcome.html
+2024-06-11 00:21:45.715589 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//welcome.html
+2024-06-11 00:21:45.715634 [debug]: filesize:3161, 2  to 3283
+2024-06-11 00:21:45.750394 [debug]: [username=tom&password=tomGET], [/css/bootstrap.min.css], [1.1]
+2024-06-11 00:21:45.750562 [debug]: /css/bootstrap.min.css
+2024-06-11 00:21:45.750692 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/bootstrap.min.css
+2024-06-11 00:21:45.750769 [debug]: filesize:121260, 2  to 121384
+2024-06-11 00:21:45.752562 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2024-06-11 00:21:45.752674 [debug]: /css/magnific-popup.css
+2024-06-11 00:21:45.752735 [debug]: [GET], [/css/animate.css], [1.1]
+2024-06-11 00:21:45.752788 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/magnific-popup.css
+2024-06-11 00:21:45.752826 [debug]: /css/animate.css
+2024-06-11 00:21:45.752860 [debug]: filesize:6951, 2  to 7073
+2024-06-11 00:21:45.752909 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/animate.css
+2024-06-11 00:21:45.752937 [debug]: filesize:72922, 2  to 73045
+2024-06-11 00:21:45.753782 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2024-06-11 00:21:45.753891 [debug]: /css/font-awesome.min.css
+2024-06-11 00:21:45.753955 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/font-awesome.min.css
+2024-06-11 00:21:45.753990 [debug]: filesize:27392, 2  to 27515
+2024-06-11 00:21:45.764154 [debug]: [GET], [/css/style.css], [1.1]
+2024-06-11 00:21:45.764289 [debug]: /css/style.css
+2024-06-11 00:21:45.764346 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/style.css
+2024-06-11 00:21:45.764378 [debug]: filesize:9807, 2  to 9929
+2024-06-11 00:21:45.764524 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2024-06-11 00:21:45.764615 [debug]: /images/profile-image.jpg
+2024-06-11 00:21:45.764677 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/profile-image.jpg
+2024-06-11 00:21:45.764705 [debug]: filesize:47176, 2  to 47300
+2024-06-11 00:21:45.764974 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2024-06-11 00:21:45.765008 [debug]: [GET], [/js/jquery.js], [1.1]
+2024-06-11 00:21:45.765111 [debug]: /js/bootstrap.min.js
+2024-06-11 00:21:45.765114 [debug]: /js/jquery.js
+2024-06-11 00:21:45.765179 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/bootstrap.min.js
+2024-06-11 00:21:45.765215 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.js
+2024-06-11 00:21:45.765250 [debug]: filesize:36868, 2  to 36998
+2024-06-11 00:21:45.765254 [debug]: filesize:85658, 2  to 85788
+2024-06-11 00:21:45.767859 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2024-06-11 00:21:45.768009 [debug]: /js/smoothscroll.js
+2024-06-11 00:21:45.768115 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/smoothscroll.js
+2024-06-11 00:21:45.768178 [debug]: filesize:4474, 2  to 4603
+2024-06-11 00:21:45.769421 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2024-06-11 00:21:45.769524 [debug]: /js/jquery.magnific-popup.min.js
+2024-06-11 00:21:45.769608 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.magnific-popup.min.js
+2024-06-11 00:21:45.769637 [debug]: filesize:20932, 2  to 21062
+2024-06-11 00:21:45.769759 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2024-06-11 00:21:45.769846 [debug]: /js/magnific-popup-options.js
+2024-06-11 00:21:45.769914 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/magnific-popup-options.js
+2024-06-11 00:21:45.769958 [debug]: filesize:1069, 2  to 1198
+2024-06-11 00:21:45.771612 [debug]: [GET], [/js/wow.min.js], [1.1]
+2024-06-11 00:21:45.771620 [debug]: [GET], [/js/custom.js], [1.1]
+2024-06-11 00:21:45.771895 [debug]: /js/wow.min.js
+2024-06-11 00:21:45.771947 [debug]: /js/custom.js
+2024-06-11 00:21:45.771999 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/wow.min.js
+2024-06-11 00:21:45.772039 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/custom.js
+2024-06-11 00:21:45.772058 [debug]: filesize:7082, 2  to 7211
+2024-06-11 00:21:45.772066 [debug]: filesize:1047, 2  to 1176
+2024-06-11 00:21:47.615981 [debug]: [GET], [/login.html], [1.1]
+2024-06-11 00:21:47.616097 [debug]: /login.html
+2024-06-11 00:21:47.616177 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//login.html
+2024-06-11 00:21:47.616214 [debug]: filesize:3385, 2  to 3507
+2024-06-11 00:21:47.676913 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2024-06-11 00:21:47.677069 [debug]: /css/bootstrap.min.css
+2024-06-11 00:21:47.677153 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/bootstrap.min.css
+2024-06-11 00:21:47.677224 [debug]: filesize:121260, 2  to 121384
+2024-06-11 00:21:47.679976 [debug]: [GET], [/css/animate.css], [1.1]
+2024-06-11 00:21:47.679997 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2024-06-11 00:21:47.680261 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2024-06-11 00:21:47.680330 [debug]: /css/magnific-popup.css
+2024-06-11 00:21:47.680337 [debug]: /css/font-awesome.min.css
+2024-06-11 00:21:47.680420 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/magnific-popup.css
+2024-06-11 00:21:47.680391 [debug]: /css/animate.css
+2024-06-11 00:21:47.680519 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/animate.css
+2024-06-11 00:21:47.680568 [debug]: filesize:6951, 2  to 7073
+2024-06-11 00:21:47.680625 [debug]: filesize:72922, 2  to 73045
+2024-06-11 00:21:47.680573 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/font-awesome.min.css
+2024-06-11 00:21:47.680749 [debug]: filesize:27392, 2  to 27515
+2024-06-11 00:21:47.683528 [debug]: [GET], [/css/style.css], [1.1]
+2024-06-11 00:21:47.683709 [debug]: /css/style.css
+2024-06-11 00:21:47.683811 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/style.css
+2024-06-11 00:21:47.683875 [debug]: filesize:9807, 2  to 9929
+2024-06-11 00:21:47.686552 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2024-06-11 00:21:47.686675 [debug]: /js/bootstrap.min.js
+2024-06-11 00:21:47.686729 [debug]: [GET], [/js/jquery.js], [1.1]
+2024-06-11 00:21:47.686759 [debug]: /js/jquery.js
+2024-06-11 00:21:47.686784 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/bootstrap.min.js
+2024-06-11 00:21:47.686812 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.js
+2024-06-11 00:21:47.686864 [debug]: filesize:85658, 2  to 85788
+2024-06-11 00:21:47.686914 [debug]: filesize:36868, 2  to 36998
+2024-06-11 00:21:47.687139 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2024-06-11 00:21:47.687220 [debug]: /js/smoothscroll.js
+2024-06-11 00:21:47.687301 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/smoothscroll.js
+2024-06-11 00:21:47.687332 [debug]: filesize:4474, 2  to 4603
+2024-06-11 00:21:47.688147 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2024-06-11 00:21:47.688297 [debug]: /js/jquery.magnific-popup.min.js
+2024-06-11 00:21:47.688394 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.magnific-popup.min.js
+2024-06-11 00:21:47.688439 [debug]: filesize:20932, 2  to 21062
+2024-06-11 00:21:47.691060 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2024-06-11 00:21:47.691220 [debug]: /js/magnific-popup-options.js
+2024-06-11 00:21:47.691324 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/magnific-popup-options.js
+2024-06-11 00:21:47.691395 [debug]: filesize:1069, 2  to 1198
+2024-06-11 00:21:47.691517 [debug]: [GET], [/js/wow.min.js], [1.1]
+2024-06-11 00:21:47.691621 [debug]: /js/wow.min.js
+2024-06-11 00:21:47.691705 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/wow.min.js
+2024-06-11 00:21:47.691740 [debug]: filesize:7082, 2  to 7211
+2024-06-11 00:21:47.692822 [debug]: [GET], [/js/custom.js], [1.1]
+2024-06-11 00:21:47.692941 [debug]: /js/custom.js
+2024-06-11 00:21:47.693021 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/custom.js
+2024-06-11 00:21:47.693059 [debug]: filesize:1047, 2  to 1176
+2024-06-11 00:21:49.000118 [debug]: username = tom
+2024-06-11 00:21:49.000259 [debug]: Tag:1
+2024-06-11 00:21:49.000412 [info] : Verify name:tom pwd:tom
+2024-06-11 00:21:49.000502 [debug]: SELECT username, password FROM user WHERE username='tom' LIMIT 1
+2024-06-11 00:21:49.001263 [debug]: MYSQL ROW: tom tom
+2024-06-11 00:21:49.001326 [debug]: UserVerify success!!
+2024-06-11 00:21:49.001352 [debug]: Body:username=tom&password=tom, len:25
+2024-06-11 00:21:49.001361 [debug]: [POST], [/welcome.html], [1.1]
+2024-06-11 00:21:49.001366 [debug]: /welcome.html
+2024-06-11 00:21:49.001419 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//welcome.html
+2024-06-11 00:21:49.001488 [debug]: filesize:3161, 2  to 3283
+2024-06-11 00:21:49.034118 [debug]: [username=tom&password=tomGET], [/css/bootstrap.min.css], [1.1]
+2024-06-11 00:21:49.034301 [debug]: /css/bootstrap.min.css
+2024-06-11 00:21:49.034541 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/bootstrap.min.css
+2024-06-11 00:21:49.034604 [debug]: filesize:121260, 2  to 121384
+2024-06-11 00:21:49.041464 [debug]: [GET], [/css/animate.css], [1.1]
+2024-06-11 00:21:49.041577 [debug]: /css/animate.css
+2024-06-11 00:21:49.041642 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/animate.css
+2024-06-11 00:21:49.041693 [debug]: filesize:72922, 2  to 73045
+2024-06-11 00:21:49.044470 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2024-06-11 00:21:49.044554 [debug]: /css/font-awesome.min.css
+2024-06-11 00:21:49.044596 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/font-awesome.min.css
+2024-06-11 00:21:49.044612 [debug]: filesize:27392, 2  to 27515
+2024-06-11 00:21:49.045260 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2024-06-11 00:21:49.045368 [debug]: /css/magnific-popup.css
+2024-06-11 00:21:49.045453 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/magnific-popup.css
+2024-06-11 00:21:49.045483 [debug]: [GET], [/css/style.css], [1.1]
+2024-06-11 00:21:49.045527 [debug]: /css/style.css
+2024-06-11 00:21:49.045527 [debug]: filesize:6951, 2  to 7073
+2024-06-11 00:21:49.045620 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/style.css
+2024-06-11 00:21:49.045649 [debug]: filesize:9807, 2  to 9929
+2024-06-11 00:21:49.046658 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2024-06-11 00:21:49.046778 [debug]: /images/profile-image.jpg
+2024-06-11 00:21:49.046840 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/profile-image.jpg
+2024-06-11 00:21:49.046871 [debug]: filesize:47176, 2  to 47300
+2024-06-11 00:21:49.048162 [debug]: [GET], [/js/jquery.js], [1.1]
+2024-06-11 00:21:49.048301 [debug]: /js/jquery.js
+2024-06-11 00:21:49.048388 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.js
+2024-06-11 00:21:49.048428 [debug]: filesize:85658, 2  to 85788
+2024-06-11 00:21:49.055711 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2024-06-11 00:21:49.055838 [debug]: /js/bootstrap.min.js
+2024-06-11 00:21:49.055914 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/bootstrap.min.js
+2024-06-11 00:21:49.055952 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2024-06-11 00:21:49.056051 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2024-06-11 00:21:49.056096 [debug]: /js/magnific-popup-options.js
+2024-06-11 00:21:49.056143 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/magnific-popup-options.js
+2024-06-11 00:21:49.056174 [debug]: filesize:1069, 2  to 1198
+2024-06-11 00:21:49.056145 [debug]: /js/jquery.magnific-popup.min.js
+2024-06-11 00:21:49.056255 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2024-06-11 00:21:49.056277 [debug]: /js/smoothscroll.js
+2024-06-11 00:21:49.056062 [debug]: filesize:36868, 2  to 36998
+2024-06-11 00:21:49.056304 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/smoothscroll.js
+2024-06-11 00:21:49.056316 [debug]: filesize:4474, 2  to 4603
+2024-06-11 00:21:49.056359 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.magnific-popup.min.js
+2024-06-11 00:21:49.056401 [debug]: filesize:20932, 2  to 21062
+2024-06-11 00:21:49.060432 [debug]: [GET], [/js/wow.min.js], [1.1]
+2024-06-11 00:21:49.060560 [debug]: /js/wow.min.js
+2024-06-11 00:21:49.060627 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/wow.min.js
+2024-06-11 00:21:49.060660 [debug]: filesize:7082, 2  to 7211
+2024-06-11 00:21:49.060743 [debug]: [GET], [/js/custom.js], [1.1]
+2024-06-11 00:21:49.060846 [debug]: /js/custom.js
+2024-06-11 00:21:49.060944 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/custom.js
+2024-06-11 00:21:49.061023 [debug]: filesize:1047, 2  to 1176
+2024-06-11 00:21:51.309339 [debug]: [GET], [/index.html], [1.1]
+2024-06-11 00:21:51.309459 [debug]: /index.html
+2024-06-11 00:21:51.309531 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//index.html
+2024-06-11 00:21:51.309575 [debug]: filesize:3148, 2  to 3270
+2024-06-11 00:21:51.344838 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2024-06-11 00:21:51.344959 [debug]: /css/bootstrap.min.css
+2024-06-11 00:21:51.345013 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/bootstrap.min.css
+2024-06-11 00:21:51.345045 [debug]: filesize:121260, 2  to 121384
+2024-06-11 00:21:51.348338 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2024-06-11 00:21:51.348354 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2024-06-11 00:21:51.348537 [debug]: /css/font-awesome.min.css
+2024-06-11 00:21:51.348578 [debug]: /css/magnific-popup.css
+2024-06-11 00:21:51.348616 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/font-awesome.min.css
+2024-06-11 00:21:51.348655 [debug]: filesize:27392, 2  to 27515
+2024-06-11 00:21:51.348668 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/magnific-popup.css
+2024-06-11 00:21:51.348703 [debug]: filesize:6951, 2  to 7073
+2024-06-11 00:21:51.348892 [debug]: [GET], [/css/animate.css], [1.1]
+2024-06-11 00:21:51.349030 [debug]: /css/animate.css
+2024-06-11 00:21:51.349113 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/animate.css
+2024-06-11 00:21:51.349181 [debug]: filesize:72922, 2  to 73045
+2024-06-11 00:21:51.351025 [debug]: [GET], [/css/style.css], [1.1]
+2024-06-11 00:21:51.351160 [debug]: /css/style.css
+2024-06-11 00:21:51.351277 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/style.css
+2024-06-11 00:21:51.351353 [debug]: filesize:9807, 2  to 9929
+2024-06-11 00:21:51.353351 [debug]: [GET], [/js/jquery.js], [1.1]
+2024-06-11 00:21:51.353444 [debug]: /js/jquery.js
+2024-06-11 00:21:51.353496 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.js
+2024-06-11 00:21:51.353533 [debug]: filesize:85658, 2  to 85788
+2024-06-11 00:21:51.353697 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2024-06-11 00:21:51.353798 [debug]: /images/profile-image.jpg
+2024-06-11 00:21:51.353866 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/profile-image.jpg
+2024-06-11 00:21:51.353893 [debug]: filesize:47176, 2  to 47300
+2024-06-11 00:21:51.354905 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2024-06-11 00:21:51.354999 [debug]: /js/bootstrap.min.js
+2024-06-11 00:21:51.355056 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/bootstrap.min.js
+2024-06-11 00:21:51.355084 [debug]: filesize:36868, 2  to 36998
+2024-06-11 00:21:51.360669 [debug]: [GET], [/js/wow.min.js], [1.1]
+2024-06-11 00:21:51.360674 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2024-06-11 00:21:51.360828 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2024-06-11 00:21:51.360882 [debug]: /js/wow.min.js
+2024-06-11 00:21:51.360876 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2024-06-11 00:21:51.360878 [debug]: /js/smoothscroll.js
+2024-06-11 00:21:51.360937 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/wow.min.js
+2024-06-11 00:21:51.360925 [debug]: /js/magnific-popup-options.js
+2024-06-11 00:21:51.360881 [debug]: /js/jquery.magnific-popup.min.js
+2024-06-11 00:21:51.361022 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/magnific-popup-options.js
+2024-06-11 00:21:51.361020 [debug]: filesize:7082, 2  to 7211
+2024-06-11 00:21:51.361019 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/smoothscroll.js
+2024-06-11 00:21:51.361077 [debug]: filesize:1069, 2  to 1198
+2024-06-11 00:21:51.361082 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.magnific-popup.min.js
+2024-06-11 00:21:51.361096 [debug]: filesize:20932, 2  to 21062
+2024-06-11 00:21:51.361100 [debug]: filesize:4474, 2  to 4603
+2024-06-11 00:21:51.364431 [debug]: [GET], [/js/custom.js], [1.1]
+2024-06-11 00:21:51.364566 [debug]: /js/custom.js
+2024-06-11 00:21:51.364633 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/custom.js
+2024-06-11 00:21:51.364667 [debug]: filesize:1047, 2  to 1176
+2024-06-11 00:21:52.764256 [debug]: [GET], [/index.html], [1.1]
+2024-06-11 00:21:52.764383 [debug]: /index.html
+2024-06-11 00:21:52.764448 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//index.html
+2024-06-11 00:21:52.764478 [debug]: filesize:3148, 2  to 3270
+2024-06-11 00:21:52.803805 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2024-06-11 00:21:52.803931 [debug]: /css/bootstrap.min.css
+2024-06-11 00:21:52.804006 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/bootstrap.min.css
+2024-06-11 00:21:52.804048 [debug]: filesize:121260, 2  to 121384
+2024-06-11 00:21:52.808875 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2024-06-11 00:21:52.808890 [debug]: [GET], [/css/animate.css], [1.1]
+2024-06-11 00:21:52.809056 [debug]: /css/magnific-popup.css
+2024-06-11 00:21:52.809126 [debug]: /css/animate.css
+2024-06-11 00:21:52.809131 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/magnific-popup.css
+2024-06-11 00:21:52.809190 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/animate.css
+2024-06-11 00:21:52.809211 [debug]: filesize:6951, 2  to 7073
+2024-06-11 00:21:52.809258 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2024-06-11 00:21:52.809283 [debug]: /css/font-awesome.min.css
+2024-06-11 00:21:52.809306 [debug]: filesize:72922, 2  to 73045
+2024-06-11 00:21:52.809352 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/font-awesome.min.css
+2024-06-11 00:21:52.809378 [debug]: filesize:27392, 2  to 27515
+2024-06-11 00:21:52.814012 [debug]: [GET], [/css/style.css], [1.1]
+2024-06-11 00:21:52.814183 [debug]: /css/style.css
+2024-06-11 00:21:52.814279 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/style.css
+2024-06-11 00:21:52.814327 [debug]: filesize:9807, 2  to 9929
+2024-06-11 00:21:52.814718 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2024-06-11 00:21:52.814827 [debug]: /images/profile-image.jpg
+2024-06-11 00:21:52.814883 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/profile-image.jpg
+2024-06-11 00:21:52.814924 [debug]: filesize:47176, 2  to 47300
+2024-06-11 00:21:52.815198 [debug]: [GET], [/js/jquery.js], [1.1]
+2024-06-11 00:21:52.815283 [debug]: /js/jquery.js
+2024-06-11 00:21:52.815357 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.js
+2024-06-11 00:21:52.815392 [debug]: filesize:85658, 2  to 85788
+2024-06-11 00:21:52.815724 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2024-06-11 00:21:52.815824 [debug]: /js/bootstrap.min.js
+2024-06-11 00:21:52.815895 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/bootstrap.min.js
+2024-06-11 00:21:52.815921 [debug]: filesize:36868, 2  to 36998
+2024-06-11 00:21:52.818895 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2024-06-11 00:21:52.819006 [debug]: /js/smoothscroll.js
+2024-06-11 00:21:52.819060 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/smoothscroll.js
+2024-06-11 00:21:52.819099 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2024-06-11 00:21:52.819105 [debug]: filesize:4474, 2  to 4603
+2024-06-11 00:21:52.819212 [debug]: /js/jquery.magnific-popup.min.js
+2024-06-11 00:21:52.819275 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.magnific-popup.min.js
+2024-06-11 00:21:52.819300 [debug]: filesize:20932, 2  to 21062
+2024-06-11 00:21:52.821220 [debug]: [GET], [/js/wow.min.js], [1.1]
+2024-06-11 00:21:52.821365 [debug]: /js/wow.min.js
+2024-06-11 00:21:52.821434 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/wow.min.js
+2024-06-11 00:21:52.821482 [debug]: filesize:7082, 2  to 7211
+2024-06-11 00:21:52.821814 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2024-06-11 00:21:52.821903 [debug]: /js/magnific-popup-options.js
+2024-06-11 00:21:52.821951 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/magnific-popup-options.js
+2024-06-11 00:21:52.821979 [debug]: filesize:1069, 2  to 1198
+2024-06-11 00:21:52.822183 [debug]: [GET], [/js/custom.js], [1.1]
+2024-06-11 00:21:52.822263 [debug]: /js/custom.js
+2024-06-11 00:21:52.822305 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/custom.js
+2024-06-11 00:21:52.822330 [debug]: filesize:1047, 2  to 1176
+2024-06-11 00:21:54.172099 [debug]: [GET], [/picture.html], [1.1]
+2024-06-11 00:21:54.172236 [debug]: /picture.html
+2024-06-11 00:21:54.172317 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//picture.html
+2024-06-11 00:21:54.172361 [debug]: filesize:3960, 2  to 4082
+2024-06-11 00:21:54.227968 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2024-06-11 00:21:54.228229 [debug]: /css/bootstrap.min.css
+2024-06-11 00:21:54.228294 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/bootstrap.min.css
+2024-06-11 00:21:54.228394 [debug]: filesize:121260, 2  to 121384
+2024-06-11 00:21:54.232183 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2024-06-11 00:21:54.232304 [debug]: /css/magnific-popup.css
+2024-06-11 00:21:54.232386 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/magnific-popup.css
+2024-06-11 00:21:54.232412 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2024-06-11 00:21:54.232449 [debug]: /css/font-awesome.min.css
+2024-06-11 00:21:54.232451 [debug]: filesize:6951, 2  to 7073
+2024-06-11 00:21:54.232570 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/font-awesome.min.css
+2024-06-11 00:21:54.232610 [debug]: filesize:27392, 2  to 27515
+2024-06-11 00:21:54.233047 [debug]: [GET], [/css/animate.css], [1.1]
+2024-06-11 00:21:54.233169 [debug]: /css/animate.css
+2024-06-11 00:21:54.233270 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/animate.css
+2024-06-11 00:21:54.233320 [debug]: filesize:72922, 2  to 73045
+2024-06-11 00:21:54.235436 [debug]: [GET], [/css/style.css], [1.1]
+2024-06-11 00:21:54.235572 [debug]: /css/style.css
+2024-06-11 00:21:54.235648 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/style.css
+2024-06-11 00:21:54.235701 [debug]: filesize:9807, 2  to 9929
+2024-06-11 00:21:54.238470 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2024-06-11 00:21:54.238598 [debug]: /images/profile-image.jpg
+2024-06-11 00:21:54.238686 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/profile-image.jpg
+2024-06-11 00:21:54.238740 [debug]: filesize:47176, 2  to 47300
+2024-06-11 00:21:54.239009 [debug]: [GET], [/images/instagram-image1.jpg], [1.1]
+2024-06-11 00:21:54.239090 [debug]: /images/instagram-image1.jpg
+2024-06-11 00:21:54.239176 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/instagram-image1.jpg
+2024-06-11 00:21:54.239231 [debug]: filesize:75836, 2  to 75960
+2024-06-11 00:21:54.240535 [debug]: [GET], [/images/instagram-image3.jpg], [1.1]
+2024-06-11 00:21:54.240643 [debug]: /images/instagram-image3.jpg
+2024-06-11 00:21:54.240697 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/instagram-image3.jpg
+2024-06-11 00:21:54.240728 [debug]: filesize:59528, 2  to 59652
+2024-06-11 00:21:54.241317 [debug]: [GET], [/images/instagram-image2.jpg], [1.1]
+2024-06-11 00:21:54.241435 [debug]: /images/instagram-image2.jpg
+2024-06-11 00:21:54.241524 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/instagram-image2.jpg
+2024-06-11 00:21:54.241563 [debug]: filesize:67313, 2  to 67437
+2024-06-11 00:21:54.242508 [debug]: [GET], [/images/instagram-image4.jpg], [1.1]
+2024-06-11 00:21:54.242567 [debug]: /images/instagram-image4.jpg
+2024-06-11 00:21:54.242608 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/instagram-image4.jpg
+2024-06-11 00:21:54.242640 [debug]: filesize:103418, 2  to 103543
+2024-06-11 00:21:54.243746 [debug]: [GET], [/js/jquery.js], [1.1]
+2024-06-11 00:21:54.243866 [debug]: /js/jquery.js
+2024-06-11 00:21:54.243954 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.js
+2024-06-11 00:21:54.243987 [debug]: filesize:85658, 2  to 85788
+2024-06-11 00:21:54.244946 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2024-06-11 00:21:54.245073 [debug]: /js/bootstrap.min.js
+2024-06-11 00:21:54.245189 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/bootstrap.min.js
+2024-06-11 00:21:54.245268 [debug]: filesize:36868, 2  to 36998
+2024-06-11 00:21:54.246189 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2024-06-11 00:21:54.246313 [debug]: /js/smoothscroll.js
+2024-06-11 00:21:54.246407 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/smoothscroll.js
+2024-06-11 00:21:54.246454 [debug]: filesize:4474, 2  to 4603
+2024-06-11 00:21:54.246509 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2024-06-11 00:21:54.246548 [debug]: /js/jquery.magnific-popup.min.js
+2024-06-11 00:21:54.246584 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.magnific-popup.min.js
+2024-06-11 00:21:54.246615 [debug]: filesize:20932, 2  to 21062
+2024-06-11 00:21:54.248160 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2024-06-11 00:21:54.248318 [debug]: /js/magnific-popup-options.js
+2024-06-11 00:21:54.248412 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/magnific-popup-options.js
+2024-06-11 00:21:54.248459 [debug]: filesize:1069, 2  to 1198
+2024-06-11 00:21:54.251632 [debug]: [GET], [/js/custom.js], [1.1]
+2024-06-11 00:21:54.251821 [debug]: /js/custom.js
+2024-06-11 00:21:54.251983 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/custom.js
+2024-06-11 00:21:54.252042 [debug]: [GET], [/js/wow.min.js], [1.1]
+2024-06-11 00:21:54.252082 [debug]: filesize:1047, 2  to 1176
+2024-06-11 00:21:54.252082 [debug]: /js/wow.min.js
+2024-06-11 00:21:54.252216 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/wow.min.js
+2024-06-11 00:21:54.252271 [debug]: filesize:7082, 2  to 7211
+2024-06-11 00:21:54.253144 [debug]: [GET], [/images/instagram-image5.jpg], [1.1]
+2024-06-11 00:21:54.253291 [debug]: /images/instagram-image5.jpg
+2024-06-11 00:21:54.253383 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/instagram-image5.jpg
+2024-06-11 00:21:54.253444 [debug]: filesize:49545, 2  to 49669
+2024-06-11 00:21:55.701722 [debug]: [GET], [/video.html], [1.1]
+2024-06-11 00:21:55.701846 [debug]: /video.html
+2024-06-11 00:21:55.701913 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//video.html
+2024-06-11 00:21:55.701947 [debug]: filesize:3347, 2  to 3469
+2024-06-11 00:21:55.739255 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2024-06-11 00:21:55.739384 [debug]: /css/bootstrap.min.css
+2024-06-11 00:21:55.739483 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/bootstrap.min.css
+2024-06-11 00:21:55.739533 [debug]: filesize:121260, 2  to 121384
+2024-06-11 00:21:55.744208 [debug]: [GET], [/css/animate.css], [1.1]
+2024-06-11 00:21:55.744386 [debug]: /css/animate.css
+2024-06-11 00:21:55.744481 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/animate.css
+2024-06-11 00:21:55.744538 [debug]: filesize:72922, 2  to 73045
+2024-06-11 00:21:55.750366 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2024-06-11 00:21:55.750505 [debug]: /css/magnific-popup.css
+2024-06-11 00:21:55.750560 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2024-06-11 00:21:55.750652 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/magnific-popup.css
+2024-06-11 00:21:55.750707 [debug]: filesize:6951, 2  to 7073
+2024-06-11 00:21:55.750728 [debug]: /css/font-awesome.min.css
+2024-06-11 00:21:55.750786 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/font-awesome.min.css
+2024-06-11 00:21:55.750818 [debug]: filesize:27392, 2  to 27515
+2024-06-11 00:21:55.751195 [debug]: [GET], [/css/style.css], [1.1]
+2024-06-11 00:21:55.751317 [debug]: /css/style.css
+2024-06-11 00:21:55.751423 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//css/style.css
+2024-06-11 00:21:55.751511 [debug]: filesize:9807, 2  to 9929
+2024-06-11 00:21:55.751693 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2024-06-11 00:21:55.751791 [debug]: /images/profile-image.jpg
+2024-06-11 00:21:55.751855 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//images/profile-image.jpg
+2024-06-11 00:21:55.751883 [debug]: filesize:47176, 2  to 47300
+2024-06-11 00:21:55.753830 [debug]: [GET], [/js/jquery.js], [1.1]
+2024-06-11 00:21:55.753905 [debug]: /js/jquery.js
+2024-06-11 00:21:55.753954 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.js
+2024-06-11 00:21:55.753982 [debug]: filesize:85658, 2  to 85788
+2024-06-11 00:21:55.754674 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2024-06-11 00:21:55.754764 [debug]: /js/bootstrap.min.js
+2024-06-11 00:21:55.754814 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/bootstrap.min.js
+2024-06-11 00:21:55.754843 [debug]: filesize:36868, 2  to 36998
+2024-06-11 00:21:55.755655 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2024-06-11 00:21:55.755743 [debug]: /js/jquery.magnific-popup.min.js
+2024-06-11 00:21:55.755804 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/jquery.magnific-popup.min.js
+2024-06-11 00:21:55.755887 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2024-06-11 00:21:55.755894 [debug]: filesize:20932, 2  to 21062
+2024-06-11 00:21:55.755953 [debug]: /js/smoothscroll.js
+2024-06-11 00:21:55.756005 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/smoothscroll.js
+2024-06-11 00:21:55.756083 [debug]: filesize:4474, 2  to 4603
+2024-06-11 00:21:55.757111 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2024-06-11 00:21:55.757202 [debug]: /js/magnific-popup-options.js
+2024-06-11 00:21:55.757257 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/magnific-popup-options.js
+2024-06-11 00:21:55.757286 [debug]: filesize:1069, 2  to 1198
+2024-06-11 00:21:55.758456 [debug]: [GET], [/js/wow.min.js], [1.1]
+2024-06-11 00:21:55.758552 [debug]: /js/wow.min.js
+2024-06-11 00:21:55.758653 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/wow.min.js
+2024-06-11 00:21:55.758719 [debug]: filesize:7082, 2  to 7211
+2024-06-11 00:21:55.760203 [debug]: [GET], [/js/custom.js], [1.1]
+2024-06-11 00:21:55.760308 [debug]: /js/custom.js
+2024-06-11 00:21:55.760381 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//js/custom.js
+2024-06-11 00:21:55.760428 [debug]: filesize:1047, 2  to 1176
+2024-06-11 00:21:55.760461 [debug]: [GET], [/video/xxx.mp4], [1.1]
+2024-06-11 00:21:55.760536 [debug]: /video/xxx.mp4
+2024-06-11 00:21:55.760579 [debug]: file path /home/jie/work/MyWebServer/code/http/test/resources//video/xxx.mp4
+2024-06-11 00:21:55.760609 [debug]: filesize:39667571, 2  to 39667698
