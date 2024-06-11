@@ -1,0 +1,42 @@
+2024-06-11 17:03:29.032015 [info] : ========== Server init ==========
+2024-06-11 17:03:29.032041 [info] : Port:1316, OpenLinger: true
+2024-06-11 17:03:29.032046 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-06-11 17:03:29.032048 [info] : LogSys level: 1
+2024-06-11 17:03:29.032050 [info] : srcDir: /home/jie/work/MyWebServer/code/resources/
+2024-06-11 17:03:29.032053 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-06-11 17:03:29.032055 [info] : ========== Server start ==========
+2024-06-11 17:03:31.595007 [info] : Client[18](127.0.0.1:3217) in, userCount:1
+2024-06-11 17:03:31.595151 [info] : Client[18] in!
+2024-06-11 17:03:31.595192 [info] : Client[22](127.0.0.1:3729) in, userCount:2
+2024-06-11 17:03:31.595215 [info] : Client[22] in!
+2024-06-11 17:03:31.845076 [info] : Client[23](127.0.0.1:5777) in, userCount:3
+2024-06-11 17:03:31.845183 [info] : Client[23] in!
+2024-06-11 17:03:31.936452 [info] : Client[25](127.0.0.1:7313) in, userCount:4
+2024-06-11 17:03:31.936544 [info] : Client[25] in!
+2024-06-11 17:03:31.937094 [info] : Client[27](127.0.0.1:8337) in, userCount:5
+2024-06-11 17:03:31.937149 [info] : Client[27] in!
+2024-06-11 17:03:31.937301 [info] : Client[28](127.0.0.1:10897) in, userCount:6
+2024-06-11 17:03:31.937376 [info] : Client[28] in!
+2024-06-11 17:03:35.772983 [info] : Verify name:jie pwd:jie
+2024-06-11 17:03:35.923888 [error]: RequestLine Error
+2024-06-11 17:03:35.924244 [info] : Client[28] quit!
+2024-06-11 17:03:35.924375 [info] : Client[28](127.0.0.1:10897) quit, UserCount:5
+2024-06-11 17:03:36.275409 [info] : Client[28](127.0.0.1:34530) in, userCount:6
+2024-06-11 17:03:36.275502 [info] : Client[28] in!
+2024-06-11 17:03:44.438984 [info] : Verify name:huang pwd:jie
+2024-06-11 17:03:44.445574 [error]: RequestLine Error
+2024-06-11 17:03:44.445760 [info] : Client[25] quit!
+2024-06-11 17:03:44.445874 [info] : Client[25](127.0.0.1:7313) quit, UserCount:5
+2024-06-11 17:03:44.785625 [info] : Client[25](127.0.0.1:128) in, userCount:6
+2024-06-11 17:03:44.785725 [info] : Client[25] in!
+2024-06-11 17:03:58.781613 [info] : Verify name:tom pwd:tom
+2024-06-11 17:03:58.788238 [error]: RequestLine Error
+2024-06-11 17:03:58.788417 [info] : Client[25] quit!
+2024-06-11 17:03:58.788531 [info] : Client[25](127.0.0.1:128) quit, UserCount:5
+2024-06-11 17:03:59.132314 [info] : Client[25](127.0.0.1:24752) in, userCount:6
+2024-06-11 17:03:59.132410 [info] : Client[25] in!
+2024-06-11 17:04:35.188811 [info] : Client[23] quit!
+2024-06-11 17:04:35.190547 [info] : Client[23](127.0.0.1:5777) quit, UserCount:5
+2024-06-11 17:04:38.632328 [info] : Client[23](127.0.0.1:48330) in, userCount:6
+2024-06-11 17:04:38.632416 [info] : Client[23] in!
+2024-06-11 17:05:10.529610 [info] : Client[22] quit!

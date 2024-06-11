@@ -1,0 +1,64 @@
+2024-06-11 17:07:07.549721 [info] : ========== Server init ==========
+2024-06-11 17:07:07.549750 [info] : Port:1316, OpenLinger: true
+2024-06-11 17:07:07.549755 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-06-11 17:07:07.549758 [info] : LogSys level: 1
+2024-06-11 17:07:07.549834 [info] : srcDir: /home/jie/work/MyWebServer/code/resources/
+2024-06-11 17:07:07.549846 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-06-11 17:07:07.549851 [info] : ========== Server start ==========
+2024-06-11 17:07:11.133041 [info] : Client[18](127.0.0.1:36495) in, userCount:1
+2024-06-11 17:07:11.133184 [info] : Client[18] in!
+2024-06-11 17:07:11.133894 [info] : Client[22](127.0.0.1:39567) in, userCount:2
+2024-06-11 17:07:11.133974 [info] : Client[22] in!
+2024-06-11 17:07:11.392174 [info] : Client[23](127.0.0.1:43663) in, userCount:3
+2024-06-11 17:07:11.392273 [info] : Client[23] in!
+2024-06-11 17:07:11.472516 [info] : Client[25](127.0.0.1:47759) in, userCount:4
+2024-06-11 17:07:11.472612 [info] : Client[25] in!
+2024-06-11 17:07:11.473012 [info] : Client[27](127.0.0.1:48271) in, userCount:5
+2024-06-11 17:07:11.473067 [info] : Client[27] in!
+2024-06-11 17:07:11.473979 [info] : Client[28](127.0.0.1:50831) in, userCount:6
+2024-06-11 17:07:11.474034 [info] : Client[28] in!
+2024-06-11 17:07:27.892911 [info] : Verify name:jie pwd:jie
+2024-06-11 17:07:27.901013 [error]: RequestLine Error
+2024-06-11 17:07:27.901218 [info] : Client[23] quit!
+2024-06-11 17:07:27.901360 [info] : Client[23](127.0.0.1:43663) quit, UserCount:5
+2024-06-11 17:07:28.250474 [info] : Client[23](127.0.0.1:53447) in, userCount:6
+2024-06-11 17:07:28.250555 [info] : Client[23] in!
+2024-06-11 17:07:45.849278 [info] : Client[28] quit!
+2024-06-11 17:07:45.849753 [info] : Client[28](127.0.0.1:50831) quit, UserCount:5
+2024-06-11 17:07:46.173886 [info] : Client[28](127.0.0.1:28873) in, userCount:6
+2024-06-11 17:07:46.173972 [info] : Client[28] in!
+2024-06-11 17:08:04.909186 [info] : Client[23] quit!
+2024-06-11 17:08:04.910010 [info] : Client[23](127.0.0.1:53447) quit, UserCount:5
+2024-06-11 17:08:05.267955 [info] : Client[23](127.0.0.1:4802) in, userCount:6
+2024-06-11 17:08:05.268053 [info] : Client[23] in!
+2024-06-11 17:08:21.853594 [info] : Client[28] quit!
+2024-06-11 17:08:21.854478 [info] : Client[28](127.0.0.1:28873) quit, UserCount:5
+2024-06-11 17:08:22.208241 [info] : Client[28](127.0.0.1:1260) in, userCount:6
+2024-06-11 17:08:22.208329 [info] : Client[28] in!
+2024-06-11 17:08:26.816539 [info] : Verify name:jie pwd:jie
+2024-06-11 17:08:26.821810 [error]: RequestLine Error
+2024-06-11 17:08:26.821973 [info] : Client[25] quit!
+2024-06-11 17:08:26.822118 [info] : Client[25](127.0.0.1:47759) quit, UserCount:5
+2024-06-11 17:08:27.162543 [info] : Client[25](127.0.0.1:20099) in, userCount:6
+2024-06-11 17:08:27.162633 [info] : Client[25] in!
+2024-06-11 17:08:35.609384 [info] : Client[22] quit!
+2024-06-11 17:08:35.610527 [info] : Client[22](127.0.0.1:39567) quit, UserCount:5
+2024-06-11 17:08:35.910697 [info] : Verify name:jie pwd:jie
+2024-06-11 17:08:35.915674 [error]: RequestLine Error
+2024-06-11 17:08:35.915893 [info] : Client[28] quit!
+2024-06-11 17:08:35.916038 [info] : Client[28](127.0.0.1:1260) quit, UserCount:4
+2024-06-11 17:08:36.258841 [info] : Client[22](127.0.0.1:51887) in, userCount:5
+2024-06-11 17:08:36.258938 [info] : Client[22] in!
+2024-06-11 17:08:42.646079 [info] : Client[28](127.0.0.1:52911) in, userCount:6
+2024-06-11 17:08:42.646211 [info] : Client[28] in!
+2024-06-11 17:08:53.178058 [info] : Client[18] quit!
+2024-06-11 17:08:53.178273 [info] : Client[18](127.0.0.1:36495) quit, UserCount:5
+2024-06-11 17:08:53.178341 [info] : Client[25] quit!
+2024-06-11 17:08:53.178429 [info] : Client[25](127.0.0.1:20099) quit, UserCount:4
+2024-06-11 17:08:53.178499 [info] : Client[23] quit!
+2024-06-11 17:08:53.178581 [info] : Client[23](127.0.0.1:4802) quit, UserCount:3
+2024-06-11 17:08:53.178696 [info] : Client[28] quit!
+2024-06-11 17:08:53.178806 [info] : Client[28](127.0.0.1:52911) quit, UserCount:2
+2024-06-11 17:08:53.178841 [info] : Client[27] quit!
+2024-06-11 17:08:53.178878 [info] : Client[27](127.0.0.1:48271) quit, UserCount:1
+2024-06-11 17:08:53.179006 [info] : Client[22] quit!
